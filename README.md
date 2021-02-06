@@ -7,3 +7,5 @@
     - minimum spanning tree based clustering algorithm.
     - improves time complexity of this mst based approach from O(n^2) to O(n^3/2).
     - for detail discription refer fast approximate mst.pdf
+# agglomerative_algorithm.ipynb
+    - hierarichal clustering everything you need.
