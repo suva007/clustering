@@ -9,3 +9,5 @@
     - for detail discription refer fast approximate mst.pdf
 # agglomerative_algorithm.ipynb
     - hierarichal clustering everything you need.
+# mst_divisive.ipynn
+    - mst based clustering on not very desirable dataset.
