@@ -11,3 +11,6 @@
     - hierarichal clustering everything you need.
 # mst_divisive.ipynn
     - mst based clustering on not very desirable dataset.
+# DETERMINISTIC KMEANS.ipynb
+    - deterministic initialization algorithm for K-means (DK-means) by exploring a set of probable centers through a constrained bi-partitioning approach. The proposed algorithm is compared with classical K-means with random initialization and improved K-means variants such as K-means++ and MinMax algorithms.
+    - for detail description refer Jothi2019_Article_DK-meansADeterministicK-meansC (1).pdf
