@@ -14,3 +14,15 @@
 # DETERMINISTIC KMEANS.ipynb
     - deterministic initialization algorithm for K-means (DK-means) by exploring a set of probable centers through a constrained bi-partitioning approach. The proposed algorithm is compared with classical K-means with random initialization and improved K-means variants such as K-means++ and MinMax algorithms.
     - for detail description refer Jothi2019_Article_DK-meansADeterministicK-meansC (1).pdf
+# DC.ipynb
+    - categorical + numerical data.
+    - clustering algorithm = agglomerative(hierarichal).
+# dc_heart.ipynb
+    - purely numerical high dimensional data.
+    - clustering algorithm = agglomerative(hierarichal).
+# dc_last.ipynb
+    - categorical data = ordinal + nominal.
+    - clustering algorithm = kmode.
+# dc_nursery_kmod.ipynb
+    - categorical data = ordinal + nominal.
+    - clustering algorithm = kmode.
